@@ -26,6 +26,7 @@
         </p>
         <h3>Hobbies</h3>
         <p>
+          lplplplpl
           My hobbies include watching coding videos on YouTube and looking at codes on CodePen to improve on my
           creativity and to broaden my view on different ways code can be used and implemented. I also enjoy sports
           and watching anime as an escape and stress reliever from the work environment.
