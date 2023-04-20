@@ -7,7 +7,7 @@
                         <br>
                         <span>Daniel Fredericks</span>
                     </h1>
-                    <h3>Aspirings Web Developer</h3>
+                    <h3>Aspiring Web Developer</h3>
                 </div>
             </div>
         </div>
